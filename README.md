@@ -6,7 +6,7 @@ By analyzing these factors, I built a model to predict whether a patient will at
 
 ## Requirements:
 - **Panda**: For data manipulation and analysis.
-- **Numpy** :For performing numerical and mathematical operations.
+- **Numpy**: For performing numerical and mathematical operations.
 - **Matplotlip**: For creating visualizations and plots.
 
 ## Project Files:
