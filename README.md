@@ -1,4 +1,4 @@
-# No Show Appointment Project
+# Medical Appointment No-Shows Project
 
 ## Introduction:
 In this project, I analyzed a dataset of patients to predict their likelihood of not showing up for appointments. The dataset includes various number of characteristics about the patient are included in each row.
