@@ -12,7 +12,7 @@ By analyzing these factors, I built a model to predict whether a patient will at
 ## Project Files:
 - Investigate_a_Dataset.html: This HTML file is the converted version of the Jupyter notebook
 - Investigate_a_Dataset.ipynb: The Jupyter notebook containing the full analysis
-- noshowappointments.csv: The CSV file containing the patient dataset
+- noshowapp_dataset.csv: The CSV file containing the patient dataset
 - README.md: This file that explains the project
 
 ## What I learned:
